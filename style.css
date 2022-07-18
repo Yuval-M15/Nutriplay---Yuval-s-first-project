@@ -1,8 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;600&display=swap');
 
 :root {
-  font-family: fredoka;
+  font-family: 'Fredoka';
   font-weight: 300;
+}
+
+body {
+  background-color: #F8FBFB;
+  color: #2C3125;
+}
+
+html, body {
+  height: 100%;
+  width: 100%; 
+}
+
+.regular-green {
+  color: #126755;
+}
+
+.hero-section {
+  text-align: center;
+  font-weight: 400;
 }
 
 h2, h3 {
@@ -10,10 +29,3 @@ h2, h3 {
 }
 
 
-
-
-
-html, body {
-  height: 100%;
-  width: 100%; 
-}
